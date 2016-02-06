@@ -1,0 +1,129 @@
+.version.playonline /* version checker */
+{
+	color: #000007;
+	background-color: #059B60;
+}
+
+.html
+{
+	background-color: #1B1B19;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 438px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 62px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u112
+{
+	z-index: 22;
+	width: 120px;
+	min-height: 120px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 291px;
+	left: -156px;
+}
+
+#ppu103
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: -64px;
+	margin-left: -18px;
+}
+
+#pu103
+{
+	width: 0.01px;
+}
+
+#u103
+{
+	z-index: 2;
+	width: 972px;
+	min-height: 635px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 145px;
+}
+
+#u106
+{
+	z-index: 13;
+	width: 168px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 914px;
+}
+
+#u111-6
+{
+	z-index: 16;
+	width: 552px;
+	min-height: 94px;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 32px;
+	left: 223px;
+}
+
+#u109
+{
+	z-index: 15;
+	width: 552px;
+	min-height: 171px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 234px;
+	margin-top: 113px;
+	position: relative;
+}
+
+#u105-10
+{
+	z-index: 3;
+	width: 599px;
+	min-height: 69px;
+	background-color: transparent;
+	color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 735px;
+	left: 20px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+	margin-bottom: -735px;
+}
+

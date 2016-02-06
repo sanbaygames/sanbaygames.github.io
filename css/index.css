@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000003;
-	background-color: #7881B8;
+	color: #0000E2;
+	background-color: #F3D22C;
 }
 
 .html
@@ -102,8 +102,8 @@
 	background-color: rgba(0,0,0,0.01);
 	border-radius: 100px;
 	padding: 8px;
-	line-height: 22px;
 	color: #606972;
+	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
@@ -138,8 +138,8 @@
 	background-color: rgba(0,0,0,0.01);
 	border-radius: 100px;
 	padding: 8px;
-	line-height: 22px;
 	color: #606972;
+	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
